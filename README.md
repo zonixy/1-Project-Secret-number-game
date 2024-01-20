@@ -1,6 +1,6 @@
-<h1>Jogo do número secreto, 1° Projeto</h1>
+<h1>🎮 Jogo do número secreto, 1° Projeto</h1>
 
-<h2>Sobre</h2>
+<h2> Sobre <h2>
 <p>Meu primeiro projeto feito no VSCode com a linguagem do JavaScript durante o ensinamento do curso de lógica de programação back-end da Alura.</p>
 
 ## Tecnologias
